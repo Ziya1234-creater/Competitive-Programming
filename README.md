@@ -1,7 +1,7 @@
 <h1 align="center"> Competitive Programming — Algorithms & Problem Solving</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-Azer%20Aslanov-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Author-Ziya%20Aslanov-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Topic-Competitive%20Programming-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Languages-C++%20%7C%20Python%20%7C%20Bash-informational?style=for-the-badge" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
